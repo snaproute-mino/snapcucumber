@@ -1,0 +1,5 @@
+Feature: Scenarios can be filterted
+
+  Scenario: Successful scenario
+    Given a successful step
+
